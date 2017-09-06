@@ -8,6 +8,9 @@ Uses the wonderful [Heatmap](https://github.com/lucasb-eyer/heatmap) library by 
 * Designed to be used with Amazon RDS to hold all the heatmap point information & Amazon S3 to host the generated tiles
 * Change the required information within rds_config.py accordingly
 * Maybe recompile heatmap.c?
+* Set up a PostGIS-enabled DB on Amazon RDS that has your heatmap points loaded in
+* Calibrate
+* Run generate.py!
 * Enjoy
 
 ## Compiling heatmap.c
