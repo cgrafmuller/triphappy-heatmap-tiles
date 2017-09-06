@@ -1,5 +1,5 @@
 # triphappy-heatmap-tiles
-Generates heatmap tiles for use in Google Maps. As used by triphappy.com
+Generates heatmap tiles for use in Google Maps. As used on https://triphappy.com
 
 Uses the wonderful [Heatmap](https://github.com/lucasb-eyer/heatmap) library by Lucas B Eyer
 
